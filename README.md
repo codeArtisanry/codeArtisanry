@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codesnail21&label=Profile%20views&color=0e75b6&style=flat" alt="codesnail21" /> </p>
+<hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesnail21" alt="codesnail21" /></a> </p>
-
+<hr/>
 - 🔭 I’m currently working on **Web-Auditor Logs**
 
 - 🌱 I’m currently learning **Backend Frameworks and Dev-Ops stuff**
@@ -24,8 +25,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnail21&show_icons=true&locale=en&layout=compact" alt="codesnail21" /></p>
 
-### Activity Stats
+<hr/>
+
+### Activity Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesnail21&" alt="codesnail21" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesnail21&show_icons=true&locale=en" alt="codesnail21" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
