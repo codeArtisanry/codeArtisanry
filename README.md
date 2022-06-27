@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Projects of Golang/VueJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codesnail21/](https://github.com/codesnail21/)
+- 👨‍💻 Some of my projects are available at [https://github.com/codesnail21/](https://github.com/codesnail21/)
 
 - 📝 I regularly write articles on [https://vatsalchauhan.medium.com/](https://vatsalchauhan.medium.com/)
 
