@@ -16,8 +16,6 @@
 
 - 📝 I regularly write articles on [https://vatsalchauhan.medium.com/](https://vatsalchauhan.medium.com/)
 
-- 📫 How to reach me **chauhanvatsal55@gmail.com**
-
 - ⚡ Fun fact **Funny,Anime-addict,EDM,Binge Watcher,Foodie**
 
 <h3 align="left">Languages and Tools:</h3>
