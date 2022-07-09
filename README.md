@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsal Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Vatsal Chauhan. </h1>
 <h3 align="center">A passionate Software(Full-Stack) Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codesnail21&label=Profile%20views&color=0e75b6&style=flat" alt="codesnail21" /> </p>
