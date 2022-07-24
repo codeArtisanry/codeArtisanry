@@ -29,7 +29,6 @@ of your life.
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=vatsalchauhan)](https://medium.com/@vatsalchauhan)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesnail21&show_icons=true&locale=en&layout=compact" alt="codesnail21" /></p>
 
 <hr/>
 
