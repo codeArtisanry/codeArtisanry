@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codesnail21&label=Profile%20views&color=0e75b6&style=flat" alt="codesnail21" /> </p>
 <hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesnail21&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord" alt="codesnail21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesnail21&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="codesnail21" /></a> </p>
 <hr/>
 
 - 🔭 I’m currently working on **Web-Auditor Logs**
