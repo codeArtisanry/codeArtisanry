@@ -48,6 +48,10 @@ of your life.
 
 <hr>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=codesnail21&theme=react-dark&hide_border=true&area=true)
+
+<hr>
+
 <h3>
 Laugh A Little
 </h3>
