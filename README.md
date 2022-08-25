@@ -27,7 +27,7 @@ of your life.
 
 <h3 align="left"> Medium Recent Post's: </h3>
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=vatsalchauhan)](https://medium.com/@vatsalchauhan)
+[![Vatsal Chauhan Medium](https://github-readme-medium.vercel.app/?username=vatsalchauhan)](https://medium.com/@vatsalchauhan)
 
 
 <hr/>
