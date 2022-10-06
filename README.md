@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vatsal Chauhan </h1>
 <h3 align="center">A passionate Software(Full-Stack) Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeArtisan4&label=Profile%20views&color=0e75b6&style=flat" alt="codeArtisan4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeArtisanry&label=Profile%20views&color=0e75b6&style=flat" alt="codeArtisanry" /> </p>
 <hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeArtisan4&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="codeArtisan4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeArtisanry&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="codeArtisanry" /></a> </p>
 <hr/>
 
 - 🔭 I’m currently working on **Web-Auditor Logs**
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Projects of Golang/VueJS**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/codeArtisan4/](https://github.com/codeArtisan4/)
+- 👨‍💻 Some of my projects are available at [https://github.com/codeArtisanry/](https://github.com/codeArtisanry/)
 
 - 📝 I regularly write articles on [https://vatsalchauhan.medium.com/](https://vatsalchauhan.medium.com/)
 
@@ -33,9 +33,9 @@ of your life.
 <hr/>
 
 ### Activity Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeArtisan4&" alt="codeArtisan4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeArtisanry&" alt="codeArtisanry" /></p>
 <br/>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeArtisan4&show_icons=true&locale=en" alt="codeArtisan4" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeArtisanry&show_icons=true&locale=en" alt="codeArtisanry" /></p> -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@ of your life.
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=codeArtisan4&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=codeArtisanry&theme=react-dark&hide_border=true&area=true)
 
 <hr>
 
