@@ -16,6 +16,8 @@
 
 - 📝 I regularly write articles on [https://vatsalchauhan.medium.com/](https://vatsalchauhan.medium.com/)
 
+- :izakaya_lantern: My Reddit Account Link [https://www.reddit.com/user/R-Z0R0/](https://www.reddit.com/user/R-Z0R0/)
+
 - ⚡ Fun fact **Funny,Anime-addict,EDM,Binge Watcher,Foodie**
 
 > Programming is like sex: One mistake
@@ -44,6 +46,7 @@ of your life.
 <a href="https://www.instagram.com/vatslchauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vatslchauhan/" height="30" width="40" /></a>
 <a href="https://medium.com/@vatsalchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vatsalchauhan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCWd39JU_bspD4-qurEQYERg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCWd39JU_bspD4-qurEQYERg" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/R-Z0R0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/R-Z0R0" height="30" width="40" /></a>
 </p>
 
 <hr>
