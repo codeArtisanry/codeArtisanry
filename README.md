@@ -51,7 +51,7 @@ of your life.
 
 <hr>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=codeArtisanry&theme=react-dark&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeArtisanry&theme=github-compact)](https://github.com/codeArtisanry/github-readme-activity-graph)
 
 <hr>
 
