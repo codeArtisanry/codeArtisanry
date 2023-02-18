@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeArtisanry&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=algolia" alt="codeArtisanry" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on **Web-Auditor Logs**
+- 🔭 I’m currently working on **Thryv Leads**
 
 - 🌱 I’m currently learning **Backend Frameworks and Dev-Ops stuff**
 
@@ -19,6 +19,8 @@
 - :izakaya_lantern: My Reddit Account Link [https://www.reddit.com/user/R-Z0R0/](https://www.reddit.com/user/R-Z0R0/)
 
 - ⚡ Fun fact **Funny,Anime-addict,EDM,Binge Watcher,Foodie**
+
+-  I am passionate about blending my technical skills with my creative interests to bring innovative and visually appealing solutions to life. My background in computer science and design has equipped me with a unique set of skills that allows me to approach problem-solving from both analytical and artistic perspectives. In my work as a software developer, I enjoy creating clean, efficient, and scalable code that solves complex problems. I am always looking for ways to improve my coding skills and keep up-to-date with the latest technologies and best practices in the industry. In my free time, I enjoy attending art exhibitions, exploring new technologies, and contributing to open-source projects. I believe that the intersection of art and technology holds endless possibilities, and I am excited to continue exploring this space in my professional and personal pursuits.
 
 > Programming is like sex: One mistake
 and you have to support it for the rest
