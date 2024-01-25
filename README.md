@@ -34,7 +34,12 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 <hr/>
 
 ### Activity Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeArtisanry&" alt="codeArtisanry" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeArtisanry&" alt="codeArtisanry" /> 
+
+![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=codeArtisanry&show_icons=true&theme=tokyonight&count_private=true&show=reviews,prs_merged_percentage)
+
+</p>
+
 <br/>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeArtisanry&show_icons=true&locale=en" alt="codeArtisanry" /></p> -->
 
