@@ -55,7 +55,7 @@ In my work as a software developer, I enjoy creating clean, efficient, and scala
 
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeArtisanry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codeArtisanry/github-readme-activity-graph)
+[![Vatsal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeArtisanry&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codeArtisanry/github-readme-activity-graph)
 
 <hr>
 
